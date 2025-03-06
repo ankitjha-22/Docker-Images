@@ -1,2 +1,3 @@
-# React-Fundamentals
-The repository contains the fundamentals of React Js
+# Docker Images
+
+The repository contains the basic docker files that can be used for quick setup
